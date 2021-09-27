@@ -1,0 +1,130 @@
+- 10/10
+- In his book on negotiation, Christopher Voss teaches the reader how to communicate clearly and constructively about any contentious subject or situation. He emphasises the need to understand one's counterpart and to communicate our empathy through labeling and summarisation. Furthermore, he discusses the key importance of hidden information to the success of a negotiation and how to uncover it.
+- Moreover, the skills and techniques presented serve not just to improve one's ability to communicate when the stakes are high, but present a model which can be used to make daily conversation more enjoyable and meaningful, through providing the tools to serve as a better confidant to those we care about.
+- ## Summary takeaways
+    - ^^**Anticipate that the negotiation will reveal unexpected information**^^ about the situation and endeavour to uncover this gradually.
+    - ^^**Smile. Maintaining a positive frame of mind will make you and your counterpart more comfortable and open.**^^
+    - Label the emotional dynamic in the conversation. First, observe the other person and the way that they react to what you say / the broader situation in order to ^^ascertain how they are likely to feel. Subsequently, **state your observation to them, thereby allowing them to feel acknowledged. (It seems, it appears)**^^
+    - ^^**By listing the negative perceptions your counterpart may have of you out in the open at the start of a conversation, it prevents these taking hold. **Additionally, these often sound unreasonable when stated overtly, oftentimes leading the other person to claim the opposite.^^
+    - In this regard, ^^**'no' has various hidden meanings**: eg. "I don't understand", "I'm not ready yet", "I need to talk it over with someone", "I want something else"^^
+    - ^^**Allow the other party to take ownership of an idea or solution, this will make they more committed to your cause.**^^
+    - After listening carefully to someone's perspective and getting them to elaborate via the use of mirroring and calibrated questions, ^^**summarise what they have said back to them,** labeling any underlying emotional dynamics.^^
+    - ^^**Make sure that your counterpart understands what they stand to lose by failing to agree to a deal.** Generally, we a motivated far more by the potential of a loss than the potential for profit.^^
+    - ^^**Calibrated questions - starting with "what" or "how", invite your counterpart to share information and work to solve your problems. The open ended questions grant them a sense of control and ownership over the ideas.**^^ Additionally, you may discover potential solution you were not aware of.
+    - ^^**Calibrated questions force your counterpart to empathise with you position as they attempt to answer.**^^
+    - ^^You don't just **need the agreement** of the other people at the table but** of other stakeholders who are able to make or break a deal.**^^
+    - ^^**Analysts are generally skeptical, including of answering questions.** They are reasoned with through the use of clearly presented data.^^
+    - ^^Analysts often **benefit from practising smiling more** when talking to others **and being cautious of cutting themselves off from their counterpart, who is their best source of information.**^^
+    - ^^**Assertives primarily desire to be validated that others have heard them.**^^ They may be incapable of listening before this need is met.
+    - ^^**Agreeables desire to develop a strong interpersonal connection and to be liked by their counterpart.** This can lead to them being unwilling to object to their counterpart or to push to close the deal, leading negotiation to stall, particularly between a pair of agreeables.^^
+    - ^^**Aim to uncover unknown unknowns. These are generally the most valuable pieces of information in a negotiation as they can completely change the situation.**^^
+    - On the other hand, ^^**Black Swans are information which may seem completely innocuous and unimportant to your counterpart. **^^
+- **Ch 2: Be a Mirror**
+    - Avoid going into a negotiation with preconceptions about the other party. While it is good to keep a variety of hypotheses in mind, one should be aiming foremost to observe and understand the other party.
+    - ^^**Anticipate that the negotiation will reveal unexpected information**^^ about the situation and endeavour to uncover this gradually.
+    - Negotiation is not about arguments. ^^Focusing on the arguments (truth claims) will distract you as you end up arguing with the voice inside your head.^^
+    - ^^Employ mirroring, where you repeat 1 to 3 words from the other party's statement back to them^^ (potentially as part of a question). This reinforces in them a sense that they are being empathised with, encouraging them to empathise with you in turn.
+    - Pause for atleast 4 seconds after mirroring, giving the other person time to respond. Repeat the process as they gradually give you more clarifying information.
+    - It is important to ^^slow down during a negotiation, trying to rush discussion makes your counterpart uncomfortable and defensive.^^
+    - ^^**Smile. Maintaining a positive frame of mind will make you and your counterpart more comfortable and open.**^^
+- **Ch 3: Don't Feel Their Pain, Label It**
+    - Label the emotional dynamic in the conversation. First, observe the other person and the way that they react to what you say / the broader situation in order to ^^ascertain how they are likely to feel. Subsequently, **state your observation to them, thereby allowing them to feel acknowledged. (It seems, it appears)**^^
+    - Particularly with regards to negative emotions, this can help to defuse tension by making the person aware of the emotions governing their response and letting them know that they have communicated these to you.
+    - ^^**By listing the negative perceptions your counterpart may have of you out in the open at the start of a conversation, it prevents these taking hold. **Additionally, these often sound unreasonable when stated overtly, oftentimes leading the other person to claim the opposite.^^
+- **Ch 4: Beware 'Yes', Master 'No'**
+    - ^^Answering in the negative to a question allows people to feel in control of the situation^^ as they can assert their boundaries, their insecurities and when they don't understand something. It makes them feel safe.
+    - Allowing people the chance to object provides the chance to seek elaboration from them, informing the negotiation and aligning it with the key motives of both parties.
+    - We are often afraid of hearing 'no' from our counterpart as we associate it with rejection and dead ends. However, it is often the start of the proper negotiation as it helps reveal the underlying issues.
+    - In this regard, ^^**'no' has various hidden meanings**: eg. "I don't understand", "I'm not ready yet", "I need to talk it over with someone", "I want something else"^^
+    - ^^Forcing a 'no' by mislabeling one of the person's emotions or desires or by asking a ridiculous question can force an otherwise unresponsive counterpart to engage with you.^^
+    - ^^**Allow the other party to take ownership of an idea or solution, this will make they more committed to your cause.**^^
+- **Ch 5: Triggering the Two Words Which Immediately Transform Any Negotiation **
+    - After listening carefully to someone's perspective and getting them to elaborate via the use of mirroring and calibrated questions, ^^**summarise what they have said back to them,** labeling any underlying emotional dynamics.^^
+    - ^^This aims to communicate a high degree of empathy.^^ By using your own words to summarise what you have been told and using labels, you demonstrate that you understand the other person's perspective and are not merely parotining their words back to them.
+    - Additionally, a non-judgemental effort to empathise creates unconditional positive regard, which can make someone feel more comfortable and open. This ultimately facilitates behavioural change.
+- **Ch 6: Bend Their Reality**
+    - ^^Be aware of the underlying desires of both parties, these are unlikely to be expressed out in the open.^^ Awareness of these desires will allow you to position yourself to appeal to what the other person needs.
+    - Money and numbers
+        - By starting with an extreme anchor, you calibrate your counterpart's emotions so that your later 'concession' offer seems reasonable.
+        - Citing a range appears less aggressive, allowing you to use a high (or low) anchor without your counterpart feeling that you are being unreasonable. Be prepared for your counterpart to take the lower end of the range, so make this your opening position for bargaining.
+        - ^^ Citing a odd number or one with fewer non-zero digits makes the proposal seem calculated and close to a final number.^^
+        - Discuss non-financial desires. Oftentimes if these can't be fulfilled, your counterpart will be willing to compensate with money.
+    - People react to the pressure imposed by deadlines by making impulsive concessions. Reveal your deadlines to your counterpart in order to motivate them to concede, however, ^^keep in mind that a missed deadline is rarely the end of the story. Better no deal than a bad deal.^^
+    - ^^**Make sure that your counterpart understands what they stand to lose by failing to agree to a deal.** Generally, we a motivated far more by the potential of a loss than the potential for profit.^^
+    - 'Fair' is often used in order to try to push the other side onto the back foot and induce guilt. Respond by inviting your counterpart to explain how you have treated them unfairly.
+    - ^^Expressing a desire to treat your counterpart fairly early in the negotiation can help to generate a positive dynamic.^^
+    - ^^Don't allow yourself to develop a nasty reputation as a negotiator, as your reputation precedes you.^^
+- **Ch 7: Create the illusion of control**
+    - ^^**Calibrated questions - starting with "what" or "how", invite your counterpart to share information and work to solve your problems. The open ended questions grant them a sense of control and ownership over the ideas.**^^ Additionally, you may discover potential solution you were not aware of.
+    - These questions allow you to express concerns without confronting the other person.
+    - ^^Calibrated questions also allow you to say no without direct rejection, by raising the problem of how a proposal would be implemented, "how can I do that ?"^^
+    - ^^**Calibrated questions force your counterpart to empathise with you position as they attempt to answer.**^^
+    - Avoid reacting angrily, learn to instead pause and ask a calibrated question.
+- **Ch 8: Guarantee execution**
+    - Pay attention the body language and inflection someone uses. Are their word and actions congruent?
+    - ^^You don't just **need the agreement** of the other people at the table but** of other stakeholders who are able to make or break a deal.**^^
+    - ^^People often use person pronouns in a manner which is in incongruent with their influence over a negotiation.^^ When they have little or no real ability to influence the decision, they will be much more willing to refer to themselves and what they think. In contrast, those with the most decision making power will often focus on the group as a whole, referring to 'we' and 'them' and emphasising the need to confirm with other members of the group.
+    - ^^After an initial confirmation, "yes", look for conviction. Ask follow up questions,^^ eg. "How does this impact others you work with?", "What difficulties do you foresee arising?", "What about this is the most difficult for you?".
+    - ^^Use your name to make yourself more empathetic to the other person.^^
+- **Ch 9: Bargaining hard**
+    - Express anger minimally, "strategic umbrage", in order to avoid your counterpart closing off. Only express genuine anger this way.
+    - Ackerman method
+        - ^^Select your target price and then identify 65%, 85%, 95% and 100% intervals.^^
+        - ^^When your counterpart names a lower price, don't immediately counteroffer. Instead, use calibrated questions or an indirect no in order to get them to bet against themselves.^^
+        - Make your final offer a specific odd (non-round) number so as to appear that it is carefully calculated. Add in an additional non-monetary benefit if pushed so as to give the impression that you are at your limit.
+    - It is important to understand that different people take different approaches to negotiation, so as to be able to recognise and adapt to them. The archetypes of these are:
+    - **Analyst**
+        - The analyst prefers to approach negotiation through consideration and calculation. They take time when making decisions and ^^may often take a moment of silence to think.^^ They generally have an aversion to surprises and mistakes. Since they often prefer working with things rather than people, ^^they often feel that by talking to you they are offering a concession and will seek to gather information from you.^^ If they don't feel that their actions are reciprocated, they will disengage.
+        - ^^**Analysts are generally skeptical, including of answering questions.** They are reasoned with through the use of clearly presented data.^^
+        - ^^Analysts often **benefit from practising smiling more** when talking to others **and being cautious of cutting themselves off from their counterpart, who is their best source of information.**^^
+    - **Assertive**
+        - ^^**Assertives primarily desire to be validated that others have heard them.**^^ They may be incapable of listening before this need is met.
+        - ^^They prioritise their goals in the negotiation^^ above being correct or personal relations.
+        - ^^They prefer solutions which are implemented quickly, even if the implementation isn't perfect.^^
+        - They generally take silence in the conversation as an opportunity to talk more.
+    - **Agreeable**
+        - ^^**Agreeables desire to develop a strong interpersonal connection and to be liked by their counterpart.** This can lead to them being unwilling to object to their counterpart or to push to close the deal, leading negotiation to stall, particularly between a pair of agreeables.^^
+        - ^^They interpret silence as anger, as it represents a cutting off of the interpersonal connection they value.^^
+    - Archetypes summary
+        - {{[[table]]}}
+            - 
+                - **Analyst**
+                    - **Agreeable**
+                        - **Assertive**
+            - Primary value
+                - Accuracy
+                    - Interpersonal connection
+                        - Goals
+            - Time
+                - Preparedness
+                    - Relationship
+                        - Money
+            - Silence
+                - Thinking
+                    - Passive anger
+                        - Opportunity to speak
+            - Persuaded by
+                - Data
+                    - Sociability and Friendliness
+                        - Respect
+            - Disliked questions types
+                - How, Yes (Conceding information)
+                    - No (Disagreeing)
+                        - Yes (Conceding)
+            - Flaw
+                - Distant, cold, unemotional
+                    - Unfocused (Excessive chit chat)
+                        - Harsh, unapproachable
+            - Reciprocity
+                - Tit for tat
+                    - High willingness
+                        - Low willingness / Low awareness
+            - Caution
+                - Slow adjustment
+                    - Overpromising
+                        - Ego
+- **Ch 10: Find the Black Swan**
+    - ^^**Aim to uncover unknown unknowns. These are generally the most valuable pieces of information in a negotiation as they can completely change the situation.**^^
+    - ^^Most questions in negotiation are focused on uncovering known unknowns,^^ however, these often confer a limited benefit and ^^our counterpart may resist revealing them to us, because they are obviously advantageous to us.^^
+        - eg. The minimum someone can afford
+    - On the other hand, ^^**Black Swans are information which may seem completely innocuous and unimportant to your counterpart. **^^

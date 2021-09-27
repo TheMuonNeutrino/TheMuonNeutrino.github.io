@@ -1,0 +1,153 @@
+- 10/10
+- While I was originally drawn to the book for its discussion of speed reading and memory techniques, I came away with so much more. A great guide to improving how, what and why we learn, and full of immediately actionable points, Limitless is a particularly good choice for someone looking to start reading non-fiction regularly, particularly if you lack the motivation to get through more than a chapter. 
+- ## Summary takeaways
+    - Limiting beliefs are often reinforced by the way others treat us. ^^**Consider how you could be contributing to the limiting beliefs of others through your actions.**^^
+    - ^^**The way that we define who we are is key to determining how we think and act. When do say "I am ..." ?** How do these statements propel you or hold you back?^^
+    - ^^The criticism of others often doesn't matter. **Giving criticism is easy, giving guidance is hard.**^^
+    - ^^**Scheduling a chunk of time everyday to work on a project keeps us progressing.** It forms a habit, which is important to maintaining motivation in the long term.^^
+    - ^^**Motivation is derived from being able to clearly see how something will benefit you / convey you away from harm**.^^
+    - eg. I find that ^^**I often obtain flow after a period of reflecting on my strengths and weaknesses in accomplishing a task**^^
+    - ^^Creates a chunk of time to work on a project, generally 1h30 to 2h00, as getting into flow can take 0h15 to 0h45. However, **one should take short breaks to get up and do something physical,** eg. go for a walk, **but should not distract oneself with other information or a different task**^^
+    - ^^Have specific goals in mind for a task and holds these in their mind.^^ Personally, ^^**having the larger goals of what I am trying to achieve in mind allows me to circumvent obstacles**^^ instead of repeatedly throwing myself against them in vain.
+    - ^^**By placing information we need to remember within a narrative context, particularly one which is outrageous, we create a multitude of 'memory hooks' which make it far easier to recall later.**^^
+    - ^^**"Red hat": How do you and __others feel__ about the problem?**^^
+    - ^^**Tacking the root cause of a problem is often much slower at first**^^ (takes time to identify the root cause and means to address it)
+    - We should force ourselves to practise ^^**active recall: eg. immediately after watching / reading, attempt to recall the information and go back to fill in gaps**^^
+    - ^^**Before starting, identify what you aim to learn**^^, allowing you to focus on selecting this information to note down
+- ## Background
+    - **The author - Jim Kwik**
+        - Jim Kwik recounts how in his childhood he suffered a traumatic brain injury which left him viewing himself as "the boy with the broken brain".
+        - Reflection on how stories in media which seem trivial and entertaining to some can be deeply valuable to others because they teach someone who needs it about the heroic archetypes. (In his case the Xmen)
+        - Recounts how he eventually came to realise that he ^^needed to focus on trying to learn using better strategies ^^rather than just 'working harder'
+    - **The challenges of digital information**
+        - Digital information can be harmful both in its excessive quantity and in our over reliance on it.
+            - The availability of large volumes of information necessitates both the ability to prioritise which information we consume and to avoid distraction.
+            - Relying on digital information prevents us from exercising our memory.
+                - eg. Study of college class found that ^^students encouraged to look up supplemental information on their laptops during class were less able to reason about the taught topic on their own afterwards^^
+            - ^^Relying on digital information can encourage us to rely on the reasoning and opinions of others^^ (eg. digital filter bubbles)
+        - Education systems often fail to focus on teaching good learning techniques, as education reformists too often focus on political or economic agendas.
+        - ^^Reading is a primary means of obtaining learning, thus it is a leverage point to optimise time usage^^ (eg. average office worker spends ~2.5 hr per day just reading emails - source: [Forbes](https://www.forbes.com/sites/annabelacton/2017/07/13/innovators-challenge-how-to-stop-wasting-time-on-emails/?sh=3a2b371b9788))
+    - **Memory**
+        - We forget 50% of new content within 1 hour, 70% within 24 hours
+        - During a learning session we tend to best remember the first information we learnt and the most recent (recency and primacy). This is why we should take regular breaks (~25 min).
+    - **Limiting beliefs**
+        - Beliefs have a disproportionate impact on what we can achieve, ^^as they determine which actions we attempt^^.
+        - ^^Limiting beliefs are often entrenched deep in our subconscious. We can attempt to overrule them by looking for counter examples in our own lives or in the world around us. They are often related to experiences we had in childhood of being unable to do something or of being told by others that we were incapable.^^
+        - Limiting beliefs are often reinforced by the way others treat us. ^^**Consider how you could be contributing to the limiting beliefs of others through your actions.**^^
+        - The examples set by others (ie. teachers and role models) can defy our limiting beliefs, helping to break them.
+        - ^^**The way that we define who we are is key to determining how we think and act. When do say "I am ..." ?** How do these statements propel you or hold you back?^^
+        - ^^"If you fight for your limitations you get to keep them"^^
+    - **Countering common limiting beliefs in society**
+        - Intelligence is limited as a measure, it doesn't account for creativity, emotional intelligence, practical experience, physical skills.
+        - ^^Learning speed and ability is often fundamentally dictated by technique, not by intelligence.^^
+        - Mistakes are often viewed as negative because of social reinforcement (eg. examination), but success requires that we learn from mistakes. (eg. Einstein regularly made simple mathematical errors in his working, including in published works)
+            - ^^Maybe the best way to limit mistakes is working in a team where other people can catch your errors?^^
+        - Knowledge only gives us power if be apply it to the fullest of our ability.
+            - <-> "If something hasn't change the way you behave, you haven't really learnt it." Jordan Peterson
+        - ^^The criticism of others often doesn't matter. **Giving criticism is easy, giving guidance is hard.**^^
+            - <-> ^^It is far easier to criticise someone than it is to do a better job than them.^^ This is also a lesson for critics, ^^it can be hazardous to criticise someone while paying them no deference,^^ particularly if you can't do better than them.
+            - <-> Similarly, it is far easier to criticise someone than to teach them or to engage with them to change their behaviour.
+- 
+- ## Framework
+    - **Goal setting**
+        - Committing to do something with an explicit plan makes it far more likely we will do it.
+        - ^^**Scheduling a chunk of time everyday to work on a project keeps us progressing.** It forms a habit, which is important to maintaining motivation in the long term.^^
+        - ^^Goals should be clear in how we will know when we have achieved them and the means by which we will pursue them.^^ (Specific Measurable Actionable Realistic Timebound).
+        - ^^Goals should consider our long term health,^^ be maintainable in the long term, be aligned with our values and our own desires (not following the desires of others).
+            - <-> ^^Instead of scheduling work, it may be more important to schedule downtime, me time and self-development time.^^
+        - ^^Before doing something, we should consider our motivation for doing it^^ and what the importance of the action is in relation to our core values.
+        - ^^**Motivation is derived from being able to clearly see how something will benefit you / convey you away from harm**.^^
+        - ^^Motivation is best derived when breaking work down into small steps.^^
+    - **Habits**
+        - Habits are important drivers of about 50% of our daily activity.
+        - In order to perform a habit we need to be motivate to do it, we need to be able to do it as a __simple task__ and we need a signal to trigger it.
+        - Habits can be motivated by 3 different levels of fundamental motivators:
+            - Pain / pleasure
+            - Emotional: fear / hope
+            - Social acceptance
+        - Requirements for being able to do a habit - ^^including attributes of a __simple task__^^
+            - Need time to do it
+            - Need to not be financially strained by it
+            - Need to desire the outcome
+            - ^^Need to not be extremely cognitively demanding^^
+            - ^^Need to not involve high pressure decisions^^
+        - A morning routine can be particularly important as we often 'flow' from one habt to he next, so this can help us get started with the day with becoming marred with indecision.
+    - **Flow**
+        - Achieving a flow state allows one to work very productively, potentially 5 times more productively than when not in a flow state.
+        - ^^Achieving flow generally occurs after working to tackle a task repeatedly and overcoming a period of difficulty. ^^
+            - eg. I find that ^^**I often obtain flow after a period of reflecting on my strengths and weaknesses in accomplishing a task**^^
+            - Achieving flow generally involves a sense of time warping, speeding up or slowing down
+        - Achieving flow requires that one:
+
+            - Eliminates distractions
+            - ^^Creates a chunk of time to work on a project, generally 1h30 to 2h00, as getting into flow can take 0h15 to 0h45. However, **one should take short breaks to get up and do something physical,** eg. go for a walk, **but should not distract oneself with other information or a different task**^^
+            - ^^Work on a task that they find enjoyable^^
+            - ^^Have specific goals in mind for a task and holds these in their mind.^^ Personally, ^^**having the larger goals of what I am trying to achieve in mind allows me to circumvent obstacles**^^ instead of repeatedly throwing myself against them in vain.
+            - ^^Works on something moderately challenging, but not frustratingly difficult^^ (circumventing obstacles as detailed above)
+        - Common obstacles to flow include:
+            - Trying to multitask
+            - Being highly stressed about other stressor - I think this is a reflection on how my mentality of doing what needs to be done to "keep the wolves from the door" can be very helpful as it ^^makes it clear to be that I am following the optimal path and don't need to be concerned with the other work I could be doing at that moment.^^
+            - Being perfectionist
+                - <-> ^^"Editing and judging gets in the way of the creative process"^^ - Jordan Peterson
+            - Low self-confidence in being able to complete the task / poorly specified task goals. ^^Take some time in order to plan out the task-space, in order to do the background research and learning before-hand, so that you know what you need to do and how you are going to accomplish it.^^
+- 
+- ## Skill specific techniques
+    - **Speed reading**
+        - ^^Tracking the text with a pointer as you read^^ prevents back tracking with your eyes as you re-read a previous word.
+        - ^^By forcing oneself to reread a passage above our current reading speed, we can learn to read faster.^^
+        - Subvocalization slows down reading. This will partly be prevented by simply trying to read above a certain speed as it becomes impossible to maintain. Additionally, ^^subvocalization can be suppressed by practising counting out loud when reading,^^ which prevents the simultaneous vocalisation of words.
+        - ^^Read in 20 to 25 min chunks taking a short break in between.^^
+        - By expanding our ability to use our peripheral vision when reading we increase the speed at which we are able to read (decreases number of eye movements required)
+    - **Memory**
+        - ^^We are more likely to remember something when we are clearly motivated to do so, observe carefully and apply memory aid methods.^^
+        - ^^**By placing information we need to remember within a narrative context, particularly one which is outrageous, we create a multitude of 'memory hooks' which make it far easier to recall later.**^^
+            - (OA) Can't we also use this to make information we tell others easier to remember? Telling a story instead of just making statements.
+        - ^^When learning a new vocabulary word, break it down into the individual sounds / letters and create a narrative using the sounds as the start of a series of words.^^
+        - Remembering names:
+            - Use new word learning technique of creating a narrative, breaking their name down into individual sounds.
+            - When someone tells you their name, repeat it back to them.
+            - Use their name during subsequent conversation.
+            - End the conversation using their name again.
+            - Finding out information about the origin of someone's name can make it more memorable.
+    - **Thinking**
+        - Place yourself in different perspectives in order to better evaluate a problem:
+            - "White hat": Data gathering
+                - If you have less than 40% of the possible available information, you likely can't make a good decision
+                - If you have over 70%, you are wasting time.
+            - "Yellow hat": What is there to be optimistic about in the situation?
+                - <-> Find the opportunity
+            - "Black hat": What are the dangers and pitfalls?
+            - ^^**"Red hat": How do you and __others feel__ about the problem?**^^
+            - ^^"Green hat": What could you do differently? - Creativity^^
+            - "Blue hat": What do you need to do to manage resources and time?
+        - ^^Exponential approach^^
+            - ^^**Tacking the root cause of a problem is often much slower at first**^^ (takes time to identify the root cause and means to address it)
+                - eg. Planning can easily feel like wasting time
+            - However, in the long run it will lead to far more progress than approaches with linear returns
+                - eg. Focusing on investing in education vs. investing in stocks
+    - **Studying / Note taking**
+        - We should force ourselves to practise ^^**active recall: eg. immediately after watching / reading, attempt to recall the information and go back to fill in gaps**^^
+            - Brainstorming (OA): During a lecture / reading session, it might be better to ^^make notes of questions to ask myself afterwards^^ to test active recall rather than make notes of content.
+        - Study content regularly by preparing a set of questions and engaging in spaced repetition
+            - Brainstorm (OA): Whenever I encounter a tricky question eg. identifying part of equation, remembering a definition, write it down on an anki card and study this deck regularly
+        - Studying requires that we take care of our wellbeing
+        - ^^Smells are particularly strong triggers of memory, this can be exploited:^^ ie. put  a bit of an essential oil on your wrist when studying and then do the same on the test
+        - Similarly, music of 50 to 80 bpm (baroque style) helps to relax the mind (<-> alpha brain waves), improving our ability to focus and learn
+            - Music can also be used as a memory aid: eg. abc song, der die das...
+        - Listening skills
+            - People speak far slower than our speed of comprehension -> easy to get distracted thinking alongside about something else
+            - ^^Learn to be present, to halt other distractions in your mind^^
+            - Try to empathise with the other person
+            - ^^Review what someone says^^, if possible asking clarifying questions
+        - Taking notes
+            - Don't focus purely on the notes: you're not a scribe
+            - ^^Paraphrase information to convert it to your own vocabulary and logical structure^^
+            - ^^**Before starting, identify what you aim to learn**^^, allowing you to focus on selecting this information to note down
+            - ^^Afterwards, review your notes and expand upon them. Highlight / extract key information.^^
+            - Note your impressions: ^^How can I use this? Why should I use this? When will I use this? Link to examples from your own life.^^
+    - **Focus**
+        - Eliminate distractions eg. environmental clutter, app notifications
+        - Engage in meditative breathing count 4 in, 7 hold, 8 out
+        - ^^Practise thinking about one task at a time, even when doing recreational activities^^
+        - ^^Schedule when you will deal with a particular task in order to prevent it distracting you at the moment.^^
+            - <-> eg. My reminder to check my email once per day which makes sure I always keep up with important notices

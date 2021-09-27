@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";",
+		".center {\r\n    text-align: center;\r\n}\r\n.remove-bottom-margin {\r\n    margin-bottom: 0px !important;\r\n}\r\n\r\ndiv.sans {\r\n    font-size: large;\r\n}\r\n\r\ndiv.sans *{\r\n    font-family: \r\n        -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"Roboto\", \r\n        \"Oxygen-Sans\", \"Ubuntu\", \"Cantarell\", \"Helvetica Neue\", sans-serif;\r\n}\r\n\r\ndiv.sans li{\r\n    line-height: 1.4em;\r\n}\r\n\r\ndiv.sans h1{\r\n    font-size: xx-large;\r\n}\r\n\r\n.ui.huge.header.site-header {\r\n    padding-top: 20px;\r\n    padding-bottom: 20px;\r\n    cursor: pointer;\r\n}\r\n\r\n.large.paragraphs p {\r\n    font-size: large;\r\n}\r\n\r\nblockquote.fancy.quote *{\r\n    font-family: Georgia, \"Times New Roman\", serif;\r\n    font-style: italic;\r\n    font-size: large;\r\n}\r\n\r\nblockquote.fancy.quote {\r\n    border: solid #003246;\r\n    border-width: 0 0 0 3px;\r\n    margin-left: 0;\r\n    padding-left: 10px;\r\n}\r\n\r\ndiv.booknote .highlight{\r\n    background-color:#fffdd0\r\n}"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,OAAO,CAAC,EACJ,UAAU,EAAE,MAAM,GACrB;;AACD,AAAA,qBAAqB,CAAC,EAClB,aAAa,EAAE,cAAc,GAChC;;AAED,AAAA,GAAG,AAAA,KAAK,CAAC,EACL,SAAS,EAAE,KAAK,GACnB;;AAED,AAAA,GAAG,AAAA,KAAK,CAAC,CAAC,CAAA,EACN,WAAW,EACP,4HACkE,GACzE;;AAED,AAAA,GAAG,AAAA,KAAK,CAAC,EAAE,CAAA,EACP,WAAW,EAAE,KAAK,GACrB;;AAED,AAAA,GAAG,AAAA,KAAK,CAAC,EAAE,CAAA,EACP,SAAS,EAAE,QAAQ,GACtB;;AAED,AAAA,GAAG,AAAA,KAAK,AAAA,OAAO,AAAA,YAAY,CAAC,EACxB,WAAW,EAAE,IAAI,EACjB,cAAc,EAAE,IAAI,EACpB,MAAM,EAAE,OAAO,GAClB;;AAED,AAAA,MAAM,AAAA,WAAW,CAAC,CAAC,CAAC,EAChB,SAAS,EAAE,KAAK,GACnB;;AAED,AAAA,UAAU,AAAA,MAAM,AAAA,MAAM,CAAC,CAAC,CAAA,EACpB,WAAW,EAAE,iCAAiC,EAC9C,UAAU,EAAE,MAAM,EAClB,SAAS,EAAE,KAAK,GACnB;;AAED,AAAA,UAAU,AAAA,MAAM,AAAA,MAAM,CAAC,EACnB,MAAM,EAAE,aAAa,EACrB,YAAY,EAAE,SAAS,EACvB,WAAW,EAAE,CAAC,EACd,YAAY,EAAE,IAAI,GACrB;;AAED,AAAA,GAAG,AAAA,SAAS,CAAC,UAAU,CAAA,EACnB,gBAAgB,EAAC,OACrB,GAAC"
+}

@@ -1,0 +1,66 @@
+- 8/10
+- Drawing on his own and subsequent research in the domain of expert performance, Anders Ericsson presents a paradigm shift in understanding how people learn best and the nature of 'talent'. The book is well structured and well exampled, making for an enjoyable and informative read. Implementing his ideas from the book alone (chapter 6) is fundamentally tricky, so it's worth looking for further domain-specific examples of what others have tried. 
+- ## Summary Takeaways
+    - ^^Practise which is **done with a measurable goal, so that progress or lack thereof is clearly identifiable**^^
+    - ^^The student **practises at a difficulty which poses a consistent but not overwhelming level of challenge**^^
+    - ^^Learning is **broken down into training specific sub-skills in each practise session**^^
+    - ^^**Feedback is constantly provided.**^^ First this is by a teacher; ^^**over time the student forms an increasingly applicable mental representation from which they can start to identify and correct their own mistakes.**^^
+    - ^^**Mastery** of a skill is deeply **tied to developing increased complexity of the mental representation** we have of the task. ^^
+    - ^^The **representation becomes better suited** to performing the task efficiently and effectively **by being structured so as to focus on the most important information.**^^
+    - ^^**Research and replicate the most successful techniques of other learners in the field**^^
+    - ^^**One cannot engage in deliberate practise for more than about an hour,**^^ so you should ensure that you take breaks
+- ### Naive practise
+    - Practising by repeating a familiar action or skill, ineffective
+- ### Purposeful practise
+    - Practise which is done while fully on the task at hand
+    - ^^Practise which is **done with a measurable goal, so that progress or lack thereof is clearly identifiable**^^
+    - ^^The student **practises at a difficulty which poses a consistent but not overwhelming level of challenge**^^
+        - Generally not enjoyable, requiring near maximal effort
+- ### Deliberate practise
+    - Elements of purposeful practise, plus:
+    - Field is well developed - there are established experts in the field
+    - Field has established teaching techniques which have been shown to work
+    - Experts in the field can be established objectively or semi-objectively
+    - ^^Learning replicates the techniques and training methods of the best experts^^
+    - ^^Learning is **broken down into training specific sub-skills in each practise session**^^
+    - ^^**Feedback is constantly provided.**^^ First this is by a teacher; ^^**over time the student forms an increasingly applicable mental representation from which they can start to identify and correct their own mistakes.**^^
+- ### Chapter 2: Harnessing adaptability
+    - Practise modifies our neural circuitry so that our brains become better specialised for the task.
+    - Specialisation in one area carries a tradeoff in diminishing our ability to perform in another area, it sacrifices our ability to perform in an environment with a high level of variability.
+        - eg. Taxi drivers: became experts in being able to remember details necessary to navigate the city of London, but were less capable on a general test of spatial memory.
+- ### Chapter 3: Mental representations
+    - ^^**Mastery** of a skill is deeply **tied to developing increased complexity of the mental representation** we have of the task. ^^
+        - eg. In the memory study on Steve Falcon, he was able to make progress by structuring the digits into blocks which formed a specific structure.
+    - ^^The **representation becomes better suited** to performing the task efficiently and effectively **by being structured so as to focus on the most important information.**^^
+        - eg. Chess grandmasters appear to conceptualise the board in terms of the relationships between pieces, not by their basic spatial location. This is evidenced by the fact that they can rapidly memorise a layout shown to them for only a brief moment, but only if this is a reasonable layout. With random board layouts, their performance was comparable to that of an amature chess player.
+- ### Chapter 5: Principles of deliberate practise on the job
+    - Practise can be integrated into functional activities
+        - eg. When an employee gives a presentation, others should be asked to take notes of the quality of the presentation as well as the content. At the end, they should be asked to feedback this to the employee. This way the employee learns to give better presentations and the others learn to provide better feedback.
+- ### Chapter 6: Principles of deliberate practise in everyday life
+    - Without a teacher:
+        - ^^Identify quality work in the field^^ you would like to learn
+        - ^^Break down the work into the aspects which make it effective^^
+        - ^^Identify specific skills^^ you need to reproduce each of these aspects
+        - Develop exercises to train each of these skills, where you ^^try to replicate some quality of the expert's work^^
+        - Evaluate you progress on these exercises
+        - ^^**Research and replicate the most successful techniques of other learners in the field**^^
+    - ^^**One cannot engage in deliberate practise for more than about an hour,**^^ so you should ensure that you take breaks
+    - Sleep quality in a major factor in improved learning. Those who learn quickly often need to sleep more than usual.
+    - In order to break through plateaus, ^^vary the manner in which you make the task challenging eg. speed, accuracy, volume.^^ This helps to identify weaknesses and strengths.
+    - Motivation:
+        - Recognise your own ability to learn and accept the existence of plateaus
+        - Keep track of how you are improving so that pride in the skill itself becomes one of your core motivators
+        - ^^Find or form a supportive social circle,^^ including people with similar goals, who are interested in and will support your learning
+- ### Chapter 8: But what about natural talent?
+    - ^^IQ does not predict achievement in deliberate practise fields particularly well. ^^
+        - In chess, as players progress to higher levels in competition, the correlation between IQ and performance vanishes. Similarly in scientific research impact.
+        - One presented hypothesis is that IQ presents a minimum boundary to perform a particular skill, where higher IQ above that boundary doesn't improve performance.
+            - This conception of there being a cutoff boundary is intriguing.
+            - <-> In the taxi drivers studied by Eleanor Maguire (UCL, ~2000), she compared prospective drivers who became licensed and failed to become licensed. Those who became licensed had significant growth in their posterior hippocampus from before starting. However, those who did not, had no measurable change.
+                - (OA) This is interesting, because one might expect the drivers to be 'partly' successful, with less, but not no growth occurring, but it appears that this is not the case. It is therefore interesting to ask what factors are responsible for the growth occurring. It is also interesting to ask: if no observable growth occurred, could measuring hippocampus growth partway through training be used to predict who passed or failed? (It may also be worth considering a hypothesis where regression occurs if a driver stops training.)
+        - It is definitely the case that IQ increases learning performance early on in learning a new intellectual skill, before specialised mental models have been formed.
+        - However, the minimum boundaries which seem to exist in certain fields may partly be the result of filtering effects, whereby persons with higher IQ achieve more early on, lending them confidence and the material and emotional support of others.
+    - Some other forms of 'natural talent' are simply skills which must be taught at a young age, such as perfect pitch.
+- ### Chapter 9:
+    - Example of implementation in the Physics classroom: Carl Wieman
+    - [What a Nobel laureate thinks about how science is taught | Carl Wieman at UCL Institute of Education](https://www.youtube.com/watch?v=87eXrCWBjU4)

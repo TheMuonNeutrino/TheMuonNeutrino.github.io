@@ -1,0 +1,19 @@
+---
+layout: default
+title: Book Notes
+---
+
+<h1 class="ui header huge">Book notes</h1>
+<blockquote class="fancy quote">
+  <p>
+    “But grandma,” said little red riding hood, “what do you have this section on
+    your blog for?” “All the better to explain what I’ve read to you. Maybe
+    you’ll even read some too, my dear.”
+  </p>
+</blockquote>
+
+{% assign bookNotes = site.categories["book-notes"] | sort: 'weight' %}
+{% for post in bookNotes %}
+  <h2><a href="{{ post.url }}">{{ post.bookName }}, {{post.authorName}}</a></h2>
+  <p>Score: {{post.score}}, {{post.weight}}</p> 
+{% endfor %}

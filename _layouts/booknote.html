@@ -1,0 +1,15 @@
+---
+layout: default
+title: page.bookName
+---
+
+<div class='ui container booknote'>
+    
+    <h1 class="remove-bottom-margin">{{page.bookName}}</h1>
+    <p>By {{page.authorName}}</p>
+    {% if page.score %}
+        <p>Score: {{page.score}}/10</p>
+    {% endif %}
+    <br />
+    {{content}}
+</div>
