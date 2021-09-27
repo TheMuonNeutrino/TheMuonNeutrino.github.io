@@ -1,3 +1,4 @@
 port: 4001
 exclude:
-  - book-notes/processing
+  - book-notes/processing/
+  - assets/css/import_css

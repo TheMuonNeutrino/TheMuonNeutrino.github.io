@@ -222,6 +222,7 @@ bookName: {bookName}
 authorName: {authorName}
 {scoreline}
 layout: booknote
+excerpt_separator: <p><h2>Summary Takeaways
 ---
 {content}
 """

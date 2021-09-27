@@ -12,8 +12,9 @@ title: Book Notes
   </p>
 </blockquote>
 
-{% assign bookNotes = site.categories["book-notes"] | sort: 'weight' %}
+{% assign bookNotes = site.categories["book-notes"] | sort: 'score' | reverse %}
 {% for post in bookNotes %}
-  <h2><a href="{{ post.url }}">{{ post.bookName }}, {{post.authorName}}</a></h2>
-  <p>Score: {{post.score}}, {{post.weight}}</p> 
+  <h2 class="remove-bottom-margin"><a href="{{ post.url }}">{{ post.bookName }}, {{post.authorName}}</a></h2>
+  <p>Score: {{post.score}}</p>
+  <p>{{post.excerpt}}</p>
 {% endfor %}
