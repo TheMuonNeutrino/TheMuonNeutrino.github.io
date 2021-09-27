@@ -50,6 +50,14 @@ def importBookNote(path):
         lines[i] = line
     return lines, indent_levels, is_table
 
+def parseExcerptSeperator(line):
+    end_excerpt = re.search(r'Summary takeaways',line,re.IGNORECASE)
+    if end_excerpt:
+        return '<!-- more -->' + line
+
+    if not end_excerpt:
+        return line
+
 def removeForwardSegment(line):
     return re.sub(
                 r'^[\s]*\-\s',
@@ -175,6 +183,7 @@ def processIndents(lines,indent_levels,is_table,dedentFactor=1):
             if current_indent_level < prior_indent_level:
                 line = _dedentUnorderedList(prior_indent_level, line, current_indent_level)
         
+        line = parseExcerptSeperator(line)
         lines[i] = line
         prior_indent_level = current_indent_level
 
@@ -222,7 +231,7 @@ bookName: {bookName}
 authorName: {authorName}
 {scoreline}
 layout: booknote
-excerpt_separator: <p><h2>Summary Takeaways
+excerpt_separator: <!-- more -->
 ---
 {content}
 """
