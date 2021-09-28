@@ -1,0 +1,12 @@
+---
+layout: default
+title: Articles
+---
+
+<h1 class="ui header huge">{{ "Articles" }}</h1>
+
+{% assign articles = site.categories["articles"]%}
+{% for post in articles %}
+  <h2 class="remove-bottom-margin"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  {{post.excerpt}}
+{% endfor %}

@@ -246,9 +246,9 @@ default_item_config = {
 }
 
 root_path = pth.dirname(__file__)
-raw_path = pth.join(root_path, 'raw')
-output_path = pth.join(root_path, '..', '_posts')
-config_path = pth.join(root_path,'config.json')
+raw_path = pth.join(root_path, 'bookNotesRaw')
+output_path = pth.join(root_path, '..', 'book-notes', '_posts')
+config_path = pth.join(root_path,'bookNotesConfig.json')
 
 config = {}
 if pth.exists(config_path):

@@ -1,4 +1,5 @@
 port: 4001
 exclude:
   - book-notes/processing/
-  - assets/css/import_css
+  - assets/css/import_css/
+  - pyProcessing/
