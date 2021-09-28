@@ -295,11 +295,3 @@ with open(config_path,'w') as configFile:
     configFile.write(
         json.dumps(config)
     )
-
-
-
-
-
-
-
-
