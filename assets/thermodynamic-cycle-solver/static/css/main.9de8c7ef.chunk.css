@@ -1,0 +1,66 @@
+.parameter-field-value {
+  width: 120px !important;
+}
+.parameter-field {
+  width: -webkit-fit-content !important;
+  width: -moz-fit-content !important;
+  width: fit-content !important;
+}
+.step-list-dropdown-wrapper {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+.item-title {
+  margin-bottom: 0.3em !important;
+}
+.step-list-item {
+  cursor: move;
+  cursor: -webkit-grabbing;
+}
+.selected-list-item {
+  background-color: #b2bce0 !important;
+}
+.pad-right {
+  padding-right: 1em;
+}
+.button-fill-height {
+  height: 100%;
+}
+.grid-container {
+  margin-left: auto;
+  margin-right: auto;
+  display: grid;
+  grid-template-columns: 50vw 50vw;
+  grid-template-rows: auto auto;
+  grid-template-areas: "graphA graphB" "main main";
+}
+.grid-itemA {
+  grid-area: graphA;
+  margin-left: auto;
+}
+.grid-itemA,
+.grid-itemB {
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+.grid-itemB {
+  grid-area: graphB;
+}
+.grid-itemMain {
+  grid-area: main;
+  height: 100vh;
+}
+#root *.header {
+  font-size: 40px !important;
+}
+.header div {
+  width: 100%;
+}
+.ui.right.floated.button {
+  margin-top: 32px !important;
+}
+/*# sourceMappingURL=main.9de8c7ef.chunk.css.map */

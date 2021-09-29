@@ -55,3 +55,16 @@ blockquote.fancy.quote {
 .highlight{
     background-color:#fffdd0
 }
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.vertical-centre {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
