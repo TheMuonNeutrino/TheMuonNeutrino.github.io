@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 'Coding In a Team: My Research Internship'
+title: 'Coding In a Team: My First Research Internship'
 ---
 What’s the difference between completing coursework as an undergraduate in physics and working in a real research team? One might conceive of the task as more meaningful, as it contributes to current research, or discuss how the content is more difficult, extending beyond the normal undergraduate curriculum. However, most prominent for me was how tightly cooperative the work is.
 
@@ -21,19 +21,20 @@ I got to learn from observing the various discussions about the design of the ap
 Perhaps most usefully over the course of the internship I was exposed to the various considerations when planning the next steps on a scientific project. I particularly noted the experimental approach taken to developing the application and user experience, such as the selection of the sonification algorithm through surveys. This was a more thorough interrogation of the assumptions underlying the choice of algorithms than I had expected and I appreciate that my supervisor was much more willing to not rely on his own judgement in this regard than I would have considered.
 
 Overall, the experience illustrated to me where I need to learn to justify my assumptions and arguments more thoroughly as well as the benefit of seeking feedback earlier. I felt that I could have more regularly looked for ways to present my code and plans for feedback. Towards the end of the project, I performed better it this area, as I communicated more with my supervisor regarding the development of figures. These illustrated the function of the different time stretching algorithms we were investigating.
-Clean Code
+
+## Clean Code
 
 During the project, I attempted to apply some of the principles I was learning about from watching Robert C. Martin’s talks on Clean Code. These take a rigorous approach to guaranteeing the quality of computer code, in particular to enabling easy further development of the code.
 
 In particular, I found the concept of code documenting itself through its variable names and structure power. I was gratified by how much this improved my experience programming the project, making it faster to make changes, such as changing the data import methodology. I also practised building unit tests for various functionality, which gave me some insight into the scope needed for thorough testing as well as the power of tests to grant confidence that my code works.
 
-This project was also my first experience using git and github, which makes me disappointed that I didn’t start using sources control earlier on.
+This project was also my first experience using git and github, which makes me disappointed that I didn’t start using source control earlier on.
 
 ## Lessons for the future
 
 Some parts of the programming conversation didn’t go as smoothly. In the project, there was a need to build a means of communication between the C# code used on the UI side and the python code used to process the data. However, there was never a chance for me to talk to the person constructing the C# code. I felt that this lead to some misdirected planning, such as considering the use of SVG files in order to transfer data between the two parts, as the researchers coordinating were unable to convey any technical discussion outside their experience.
 
-This reinforced to me the utility of specifying program functionality first in terms of user experience stories, as well as of having direct communication between those programming different parts of an application.
+This reinforced to me the utility of having direct communication between those programming different parts of an application.
 
 ## An Area to Pursue
 
