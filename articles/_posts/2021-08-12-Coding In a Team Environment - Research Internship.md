@@ -32,7 +32,8 @@ This project was also my first experience using git and github, which makes me d
 
 ## Lessons for the future
 
-Some parts of the programming conversation didn’t go as smoothly. In the project, there was a need to build a means of communication between the C# code used on the UI side and the python code used to process the data. However, there was never a chance for me to talk to the person constructing the C# code. I felt that this lead to some misdirected planning, such as considering the use of SVG files in order to transfer data between the two parts, as the researchers coordinating were unable to convey any technical discussion outside their experience.
+Some parts of the programming conversation didn’t go as smoothly. In the project, there was a need to build a means of communication between the C# code used on the UI side and the python code used to process the data. However, there was never a chance for me to talk to the person constructing the C# code. I felt that this lead to some misdirected planning, such as considering the use of SVG files in order to transfer data between the two parts, as it fell to the researchers coordinating between us to
+plan technical elements outside of their experience.
 
 This reinforced to me the utility of having direct communication between those programming different parts of an application.
 
