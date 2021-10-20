@@ -24,7 +24,7 @@ Overall, the experience illustrated to me where I need to learn to justify my as
 
 ## Clean Code
 
-During the project, I attempted to apply some of the principles I was learning about from watching Robert C. Martin’s talks on Clean Code. These take a rigorous approach to guaranteeing the quality of computer code, in particular to enabling easy further development of the code.
+During the project, I attempted to apply some of the principles I was learning about from watching [Robert C. Martin’s talks on Clean Code](https://www.youtube.com/watch?v=7EmboKQH8lM). These take a rigorous approach to guaranteeing the quality of computer code, in particular to enabling easy further development of the code.
 
 In particular, I found the concept of code documenting itself through its variable names and structure power. I was gratified by how much this improved my experience programming the project, making it faster to make changes, such as changing the data import methodology. I also practised building unit tests for various functionality, which gave me some insight into the scope needed for thorough testing as well as the power of tests to grant confidence that my code works.
 
