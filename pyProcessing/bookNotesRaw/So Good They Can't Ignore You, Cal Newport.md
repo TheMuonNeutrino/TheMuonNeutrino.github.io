@@ -12,6 +12,7 @@
     - ^^**Track the dependency between knowledge,** ie. what concepts does a proof rely on.^^
     - eg. Taking challenging papers and ^^**reconstructing the arguments and proofs**^^
     - ^^**Keep track of how much time you spend on different types of work:** planning, administrative, unfocused / unimportant, deep work, deliberate practise.^^
+<hr>
 - Following one's passion generally doesn't lead to a satisfying career.
     - Our initial passions are often vaguely defined and based on a lack of knowledge about the reality of working in a job.
     - Many student's passions are extremely difficult to monetize as a career, eg. Reading, dancing and sports
