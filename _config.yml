@@ -3,3 +3,7 @@ exclude:
   - book-notes/processing/
   - assets/css/import_css/
   - pyProcessing/
+
+collections:
+  projects:
+    sort_by: date
