@@ -102,7 +102,7 @@
             - Sensori-motor strip
                 - 11-14  Alpha/SMR
                     - Anxiety relief
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FMarek%2FQBdaBZY7DD.png?alt=media&token=38bd4119-25c1-4373-9551-6710691e268f)
+    
     - Neurofeedback has been shown to effective to treat epilepsy, PTSD,  ADHD, alcohol addiction and even to improve the mental performance of musicians and athletes.
     - Oftentimes, showing people real time brain imaging results can help them to recognise that their problems are deeply embedded in their neurology and thus to allow them to let go of self blaming thoughts.
     - Research in the discipline is often underfunded due to limited commercial interest.
