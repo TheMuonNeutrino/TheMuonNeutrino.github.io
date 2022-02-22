@@ -18,6 +18,7 @@ def importBookNote(path):
         line = parseHighlight(line)
         line = parseLink(line)
         line = parseLinkIcon(line)
+        line = parseLeftRightHarpoons(line)
         
         line_starts_table = re.search(r'{{\[\[table\]\]}}', line)
 
@@ -122,6 +123,13 @@ def parseBolding(line):
             r'<b>\1</b>',
             line
         )
+
+def parseLeftRightHarpoons(line):
+    return re.sub(
+        r'\$\$\\leftrightharpoons\$\$',
+        r'&#8652;',
+        line
+    )
 
 def toUrlName(title):
     title = re.sub(
@@ -257,6 +265,8 @@ if pth.exists(config_path):
 
 for file in os.listdir(raw_path):
     title = file.split('.')[0]
+
+    print(f'Build post {title}')
 
     thisConfig = {}
 
