@@ -1,0 +1,22 @@
+- 10/10
+- A gripping discussion of the experiences of the concentration camp. This book is regularly surprising, both in the strength of the desensitisation developed by the prisoners to the suffering of strangers and in the kindness and concern for others that people still develop in such a situation. Frankl also presents the arbitrary luck of those who survived and the common impossibility of making strategic decisions in the face of deception. In discussing the role of meaning Frankl takes a curiously open approach, encouraging us to interpret in any situation that meaning available to find, even if we must find it in the righteous bearing of our unavoidable suffering.
+<!-- more -->
+- ### Experiences in a Concentration Camp
+    - The prisoners, foremen and capos he describes have such varied personalities and reactions to the situation. Some are agreeable, others excessively narcissistic and cruel.
+        - He reflects on this further at the end of part I, reflecting that there are only truly "two races of men, the decent and the indecent." He says that people from both of these can be found in any group, with some guards and even camp commanders being revealed to be compassionate, while some of the other prisoners were sadistic. He notes though how those decent and reasonable individuals became detached from the cruelty around them, neither acting to help perpetuate it, nor openly objecting to it.
+    - It's interesting how they found humour in the situation, both amongst each other and even the instance where he got a smile out of a foreman by making a joke to him about the situation.
+    - ^^He's quite upfront about how little room there was for compassion, how the prisoners cared only for themselves and their friends, not concerning themselves with the others who had to suffer, often in the zero sum scenarios created by the bureaucratic overseers,^^ eg. specifying the number of prisoners on a transport.
+    - He remarks on how quickly that adapted to their situation psychologically, becoming used to the death and brutality surrounding them.
+    - ^^Curiously, he discusses how religion and art still took part in camp life, with the occasional sharing of poetry, song or prayer services. He reflects on how this, along with inner spiritual reflection, was a key factor in driving their continued survival.^^
+        - (OA) This pretty much demonstrates that Maslow's Hierarchy of Needs is bullshit.
+    - Later, he discusses how his inner spiritual experiences gave him strength. He recounts he would talk to the internal image of his wife or visualise himself in a hypothetical future, speaking to a lecture room about the psychology of the concentration camps. These served to provide him with a sense of purpose and distract him from constant rumination about his current survival.
+    - He presents the idea that many people in the concentration camp were killed by a lack of hope. This would lead to increased vulnerability to disease or to apathetic inactivity, both of which were fatal.
+    - In order to hang on to life, he posits that it is important to maintain a sense of one's individual purpose in the world and the value that one can uniquely contribute, whether this be through a larger work or through the positive impact we can have on a single individual.
+    - He also discusses how we can obtain a sense of meaning through the righteous bearing of our suffering, viewing it as a challenge we should overcome without subsuming to our worst tendencies.
+- ### Logotherapy
+    - Focuses on helping patients find meaning as a path to recovery
+    - Accepts suffering as a necessary part of life, encouraging patients to find ways in which their unavoidable suffering can be viewed as an asset
+        - This is opposed to those other schools of psychotherapy which view negative emotion as an indication of pathology, never as potentially functional
+        - This has propagated in western culture, particularly the US, where "not only are we unhappy, but we are unhappy and ashamed about being unhappy."
+    - Compels patients to live their life, "as if they were already living it for the second time and as if they had acted the first time as wrongly as you are about to act now."
+    - Frankl also explores the phenomena of paradoxical intention, whereby psychological distress, in particular anxiety, is reduced upon making an effort to make it worse.
