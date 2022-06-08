@@ -1,29 +1,24 @@
 ---
-layout: default
+layout: core-js
 title: Marek Ian C
 ---
-<div class="large paragraphs">
-
-    <h1 class="ui center aligned header">
-        Hello, I’m Marek, a physics student. Here are some things I’ve written and programmed.
-    </h1>
-
-    <h2 class="center"><a href="/articles/" >Articles</a></p>
-    <h2 class="center"><a href="/book-notes/" >Book notes</a></p>
-    <h1 class="center">Projects</h2>
-    <div class='ui cards'>
-
-        {% assign projects = site.projects | reverse%}
-        {% for project in projects%}
-            {{project.content}}
-        {% endfor %}
-
-        
-
-
-
+<div class="ui container sans">
+    <div class="padded-header">
+      {% include siteHeader.html %}
+      {% include navHeader.html %}
     </div>
+    <div class="large paragraphs">
 
-
-
+        <h2 class="ui center aligned header">
+            Hello, I’m Marek, a physics student. Here are some things I’ve written and programmed.
+        </h2>
+        <h1 class="center">Projects</h1>
+        <div class='ui cards'>
+            {% assign projects = site.projects | reverse%}
+            {% for project in projects%}
+                {{project.content}}
+            {% endfor %}
+        </div>
+    </div>
+    {% include siteFooter.html %}
 </div>
