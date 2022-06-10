@@ -1,0 +1,79 @@
+---
+layout: default
+---
+
+<h1>MagSonify</h1>
+
+<p>
+  MagSonify is a tool I built in the summer of 2021 as part of a research
+  internship.
+</p>
+
+<p>
+  It allows for the generation of audio which represents the oscillations of
+  plasma waves in Earth's magnetosphere, as detected by the THEMIS satellite.
+  This conversion, a technique called audification has been innovated as a means
+  of getting an overview of large datasets in various scientific fields. When
+  the data is presented in such a format, it is possible for us to process it
+  intuitively to a degree which is not possible for waveforms rendered on a
+  screen.
+</p>
+
+<p>
+  The main challenge that I worked on was the need to implement various time
+  stretching methods during the audification process. These are needed in order
+  to make the audio slow enough for the listener to be able to pick up on
+  meaningful events. Each time stretching algorithm introduces different
+  distortions to the audio, which we wanted to examine.
+</p>
+
+<p>
+  This work ultimately contributed to a publication in
+  <i>Frontiers in Astronomy and Space Science</i>
+  and to further work by my supervisor and other collaborators, including a
+  planned citizen science project.
+</p>
+
+<p>
+  Publication:
+  <a href="https://doi.org/10.3389/fspas.2022.877172">
+    Listening to the Magnetosphere: How Best to Make ULF Waves Audible</a
+  >
+</p>
+
+<p>
+  <a href="https://magsonify.readthedocs.io/en/latest/src/introduction.html">
+    Full project documentation (readthedocs.io)</a
+  >
+</p>
+
+<hr />
+<p>
+  The research collaboration I was working with ultimately intended to create an
+  application which would allow citizen scientists to listen to the audio for a
+  given space weather event or time period and would render the accompanying
+  waveforms and satellite position. The following videos show a mock of part of
+  this interface and exhibit what the audified plasma waves sound like under
+  different algorithms.
+</p>
+
+<iframe
+  src="https://www.youtube.com/embed/wmAwFIXWMvY"
+  title="YouTube video player"
+  allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen=""
+  width="380"
+  height="216"
+  frameborder="0"
+></iframe>
+<iframe
+  width="380"
+  height="216"
+  src="https://www.youtube.com/embed/pVi6--2iJ7A"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+>
+</iframe>
+
