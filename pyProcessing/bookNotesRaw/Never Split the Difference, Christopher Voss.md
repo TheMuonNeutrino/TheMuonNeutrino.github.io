@@ -1,6 +1,7 @@
 - 10/10
 - In his book on negotiation, Christopher Voss teaches the reader how to communicate clearly and constructively about any contentious subject or situation. He emphasises the need to understand one's counterpart and to communicate our empathy through labeling and summarisation. Furthermore, he discusses the key importance of hidden information to the success of a negotiation and how to uncover it.
 - Moreover, the skills and techniques presented serve not just to improve one's ability to communicate when the stakes are high, but present a model which can be used to make daily conversation more enjoyable and meaningful, through providing the tools to serve as a better confidant to those we care about.
+- I've found Voss' advice to be particularly helpful in how it changed my approach to situations where I was frustrated with someone else. By following a negotiation approach which focused on empathising with the other party and forced me to avoid direct expression of my own frustration, it allowed me to learn contextual information which clarified the conversation and relieved my frustration.
 - ## Summary takeaways
     - ^^**Anticipate that the negotiation will reveal unexpected information**^^ about the situation and endeavour to uncover this gradually.
     - ^^**Smile. Maintaining a positive frame of mind will make you and your counterpart more comfortable and open.**^^
