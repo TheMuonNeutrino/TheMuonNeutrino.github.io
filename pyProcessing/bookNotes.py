@@ -8,11 +8,21 @@ def importBookNote(path):
     lines = []
     indent_levels = []
     is_table = []
+    strip_this_line = []
+    references = {}
 
     with open(path,'r') as readFile:
         lines = readFile.readlines()
     
     for i,line in enumerate(lines):
+        is_id = re.match(".*id\:\:\s([0-9abcdef\-]{36})", line)
+        if is_id:
+            id = is_id.group(1)
+            references[id] = lines[i-1].strip().removeprefix('- ')
+            strip_this_line.append(True)
+        else:
+            strip_this_line.append(False)
+
         line = parseBolding(line)
         line = parseItalics(line)
         line = parseHighlight(line)
@@ -40,7 +50,7 @@ def importBookNote(path):
             indent_segment_search = re.search('([\s]+)\-\s', line)
 
             if indent_segment_search:
-                indent_segment = indent_segment_search.group(1)
+                indent_segment = indent_segment_search.group(1).replace('\t','    ')
                 indent_levels.append(len(indent_segment)//4)
             
             if not indent_segment_search:
@@ -49,7 +59,22 @@ def importBookNote(path):
             line = removeForwardSegment(line) 
          
         lines[i] = line
-    return lines, indent_levels, is_table
+
+    final_lines = []
+    final_indent_levels = []
+    final_is_table = []
+    for i,line in enumerate(lines):
+        refs = re.findall("\(\(([0-9abcdef\-]{36})\)\)", line)
+        for id in refs:
+            line = re.sub("\(\(([0-9abcdef\-]{36})\)\)", references[id], line)
+        lines[i] = line
+
+        if not strip_this_line[i]:
+            final_lines.append(line)
+            final_indent_levels.append(indent_levels[i])
+            final_is_table.append(is_table[i])
+    
+    return final_lines, final_indent_levels, final_is_table
 
 def parseExcerptSeperator(line):
     end_excerpt = re.search(r'Summary takeaways',line,re.IGNORECASE)
@@ -184,7 +209,7 @@ def processIndents(lines,indent_levels,is_table,dedentFactor=1):
         if not current_is_table:
             if current_indent_level > 0:
                 line = _tagList(line)
-            if current_indent_level == 0:
+            if current_indent_level == 0 and line != '':
                 line = _tagParagraph(line) 
             if current_indent_level > prior_indent_level:
                 line = _indentUnorderedList(prior_indent_level, line, current_indent_level)
@@ -254,7 +279,8 @@ default_item_config = {
 }
 
 root_path = pth.dirname(__file__)
-raw_path = pth.join(root_path, 'bookNotesRaw')
+# raw_path = pth.join(root_path, 'bookNotesRaw')
+raw_path = r'C:\Users\MarekC\Desktop\Logseq\pages\Book_notes'
 output_path = pth.join(root_path, '..', 'book-notes', '_posts')
 config_path = pth.join(root_path,'bookNotesConfig.json')
 

@@ -1,125 +1,126 @@
 - 10/10
 - Eric Ries presents a framework for how to run an organisation which aims to innovate, covering strategies and heuristics for obtaining meaningful feedback about the real world performance of a product, conditions to ensure that a product can be rapidly iterated and techniques to build a company culture which enables rapid iteration and honest self-assessment. The book is concise and clearly structured, with examples primarily from Eric Ries's own experience. The information is focused around software products, although the ideas presented so as to be adabtable to other fields.
 - ### Summary Takeaways
-    - ^^A startup is **any organisation aiming to achieve rapid iteration amongst conditions of high uncertainty.**^^
-        - ^^**A startup converts ideas into viable products.** Information is the most valuable asset.^^
-    - ^^**Experiments reveal information not only about known unknowns, but can also reveal surprises early, **tackling the unknown unknowns.^^
-    - ^^**Value hypothesis - Customers will want the product or service (they will 'value' it)**^^
-    - ^^**Growth hypothesis - How will customers discover a product or service?**^^
-    - ^^Information on the possibility of constructing a viable business is obtained through the build-measure-learn feedback loop.^^
-        - ^^While we work through the loop in the forward order, **we plan through it backwards, starting by establishing what we aim to learn.**^^
-    - ^^Learning is a priority. **Any work** on an MVP **which doesn't serve to test the most critical and risky of the business model assumptions is wasted.**^^
-    - ^^Instead one should use **cohort analysis** to examine funnel or customer activation metrics. **This provides continuous regular feedback.**^^
-    - ^^Having **data which reveals how changes are impacting customer behaviour prevents a situation where we are dismissive of or overly responsive to qualitative feedback.**^^
-    - ^^**Validated learning should form part of a company culture, with engineers and developers taking responsibility for ensuring their work is of value to the core objectives**, not only executives.^^
-    - ^^**Small batch sizes allow for **rapid iteration and** rapid detection and correction of errors. **^^
-    - ^^When implementing small batches, **engineers and designers should work alongside in teams which complete one batch at a time.**^^
-    - ^^**As soon as a defect is identified, work should be stopped** so that it can be repaired **and ways to prevent it reoccuring can be developed.** This requires addressing the problem at multiple levels.^^
-    - ^^The level of response should be a **proportional investment in preventing the problem at each level of the chain.**^^ This must be done in relation to the severity of the problem. A first instance occurrence may involve correcting the problem at a local level, while taking the first steps to improve an overarching system (eg. developing training materials), rather than initiating a large and time consuming program.
-    - 5 whys meetings should involve all stakeholders in the problem (those who discovered, attempted to fix, escalated or are responsible for a subsystem related to the problem). ^^**Otherwise, there is a tendency to assign blame to whoever was left out.**^^ Key decisions makers should be trained to lead these meetings.
-    - In an internal startup, ^^**the company's existing business operations and brand need to be protected from the actions of the startup.** This means creating a sandbox where the startup can test new functionality on a smaller cohort of less critical users,^^ before gradually expanding the scope of the sandbox over time, as the team gains experience.
+	- ((6484851a-86a3-4d29-89c2-4aa226f677da))
+		- ^^**A startup converts ideas into viable products.** Information is the most valuable asset.^^
+	- ^^**Experiments reveal information not only about known unknowns, but can also reveal surprises early,** tackling the unknown unknowns.^^
+	- ^^**Value hypothesis - Customers will want the product or service (they will 'value' it)**^^
+	- ^^**Growth hypothesis - How will customers discover a product or service?**^^
+	- ^^Information on the possibility of constructing a viable business is obtained through the build-measure-learn feedback loop.^^
+		- ^^While we work through the loop in the forward order, **we plan through it backwards, starting by establishing what we aim to learn.**^^
+	- ^^Learning is a priority. **Any work** on an MVP **which doesn't serve to test the most critical and risky of the business model assumptions is wasted.**^^
+	- ^^Instead one should use **cohort analysis** to examine funnel or customer activation metrics. **This provides continuous regular feedback.**^^
+	- ^^Having **data which reveals how changes are impacting customer behaviour prevents a situation where we are dismissive of or overly responsive to qualitative feedback.**^^
+	- ^^**Validated learning should form part of a company culture, with engineers and developers taking responsibility for ensuring their work is of value to the core objectives**, not only executives.^^
+	- ^^**Small batch sizes allow for** rapid iteration and **rapid detection and correction of errors.**^^
+	- ^^When implementing small batches, **engineers and designers should work alongside in teams which complete one batch at a time.**^^
+	- ^^**As soon as a defect is identified, work should be stopped** so that it can be repaired **and ways to prevent it reoccuring can be developed.** This requires addressing the problem at multiple levels.^^
+	- ^^The level of response should be a **proportional investment in preventing the problem at each level of the chain.**^^ This must be done in relation to the severity of the problem. A first instance occurrence may involve correcting the problem at a local level, while taking the first steps to improve an overarching system (eg. developing training materials), rather than initiating a large and time consuming program.
+	- 5 whys meetings should involve all stakeholders in the problem (those who discovered, attempted to fix, escalated or are responsible for a subsystem related to the problem). ^^**Otherwise, there is a tendency to assign blame to whoever was left out.**^^ Key decisions makers should be trained to lead these meetings.
+	- In an internal startup, ^^**the company's existing business operations and brand need to be protected from the actions of the startup.** This means creating a sandbox where the startup can test new functionality on a smaller cohort of less critical users,^^ before gradually expanding the scope of the sandbox over time, as the team gains experience.
 - ### 1) Introduction
-    - ^^A startup is **any organisation aiming to achieve rapid iteration amongst conditions of high uncertainty.**^^
-    - The lean startup applies an experimental method to determine what customers actually want in a product. They use rapid iteration in order to contract the feedback loop.
-    - A good plan, well considered strategy and through market research are alluring, but mostly pointless, as in a high uncertainty environment we lack the data to make predictions, due to a lack of operating history. We don't even know who our customer will be or how our product will work.
+	- ^^A startup is **any organisation aiming to achieve rapid iteration amongst conditions of high uncertainty.**^^
+	  id:: 6484851a-86a3-4d29-89c2-4aa226f677da
+	- The lean startup applies an experimental method to determine what customers actually want in a product. They use rapid iteration in order to contract the feedback loop.
+	- A good plan, well considered strategy and through market research are alluring, but mostly pointless, as in a high uncertainty environment we lack the data to make predictions, due to a lack of operating history. We don't even know who our customer will be or how our product will work.
 - ### 2) Define
-    - Pursuing an 'intrapreneur' position can be a highly rewarding career path. eg. quants, internal product development, RnD.
-    - Innovation requires building a testing system where one can run experiments and obtain feedback quickly.
-    - The team doing the testing needs freedom to trail changes at the speed of the system, without seeking constant approval.
+	- Pursuing an 'intrapreneur' position can be a highly rewarding career path. eg. quants, internal product development, RnD.
+	- Innovation requires building a testing system where one can run experiments and obtain feedback quickly.
+	- The team doing the testing needs freedom to trail changes at the speed of the system, without seeking constant approval.
 - ### 3) Learn
-    - Predicting customer behaviour surrounding new products / business models is very difficult.
-    - Market research surveys are limited by the fact that customers can't articulate what they want until they see it. This is the value of product trials with an MVP.
-    - ^^Product and feature development which is unnecessary to learning what the customer values should be delayed until certainty is gained that these form part of a realistic value proposition.^^
-    - Use quantitative measures to validate learning. Does a change improve attention directed at a product, downloads, purchases, referrals or customer retention?
+	- Predicting customer behaviour surrounding new products / business models is very difficult.
+	- Market research surveys are limited by the fact that customers can't articulate what they want until they see it. This is the value of product trials with an MVP.
+	- ^^Product and feature development which is unnecessary to learning what the customer values should be delayed until certainty is gained that these form part of a realistic value proposition.^^
+	- Use quantitative measures to validate learning. Does a change improve attention directed at a product, downloads, purchases, referrals or customer retention?
 - ### 4) Experiment
-    - ^^**Experiments reveal information not only about known unknowns, but can also reveal surprises early, **tackling the unknown unknowns.^^
-    - Break the vision down into:
-        - ^^**Value hypothesis - Customers will want the product or service (they will 'value' it)**^^
-        - ^^**Growth hypothesis - How will customers discover a product or service?**^^
-    - Confirming that customers feel that a prototype is missing features on the original roadmap is a learning success, as it confirms that the effort of building them will be worth it.
+	- ^^**Experiments reveal information not only about known unknowns, but can also reveal surprises early,** tackling the unknown unknowns.^^
+	- Break the vision down into:
+		- ^^**Value hypothesis - Customers will want the product or service (they will 'value' it)**^^
+		- ^^**Growth hypothesis - How will customers discover a product or service?**^^
+	- Confirming that customers feel that a prototype is missing features on the original roadmap is a learning success, as it confirms that the effort of building them will be worth it.
 - ### II) Steer
-    - ^^**A startup converts ideas into viable products.** Information is the most valuable asset.^^
-    - ^^Information on the possibility of constructing a viable business is obtained through the build-measure-learn feedback loop.^^
-        - ^^While we work through the loop in the forward order, **we plan through it backwards, starting by establishing what we aim to learn.**^^
-    - ^^It is desired to minimise the iteration time to complete a cycle of this loop.^^
+	- ^^**A startup converts ideas into viable products.** Information is the most valuable asset.^^
+	- ^^Information on the possibility of constructing a viable business is obtained through the build-measure-learn feedback loop.^^
+		- ^^While we work through the loop in the forward order, **we plan through it backwards, starting by establishing what we aim to learn.**^^
+	- ^^It is desired to minimise the iteration time to complete a cycle of this loop.^^
 - ### 5) Leap
-    - Startup strategy is often based on 'leap of faith' assumptions, which are used to justify the value and growth hypothesis.
-    - Analog - Confirms a product assumption, eg. will people listen to music with earphones in a public place?
-    - Antilog - Disconfirms an assumption, eg. previous failure to monetise a similar business model.
-    - Get out of the building and go see for yourself - ^^understanding of the relevant customer segment requires extensive interaction with people in the context of the product.^^
+	- Startup strategy is often based on 'leap of faith' assumptions, which are used to justify the value and growth hypothesis.
+	- Analog - Confirms a product assumption, eg. will people listen to music with earphones in a public place?
+	- Antilog - Disconfirms an assumption, eg. previous failure to monetise a similar business model.
+	- Get out of the building and go see for yourself - ^^understanding of the relevant customer segment requires extensive interaction with people in the context of the product.^^
 - ### 6) Test
-    - ^^Learning is a priority. **Any work** on an MVP **which doesn't serve to test the most critical and risky of the business model assumptions is wasted.**^^
-    - Starting by trying to serve a couple or even a single customer can teach us a lot about the difficulties a real world implementation will encounter. This can be done on a largely manual system, with minimal development work. 
-        - An early stage concierge style MVP is not the final product, as the aim on a startup is to build a scalable company, not a profitable small buisness.
-    - ^^While we may be tempted to focus on creating what we think 'quality' is, if we don't understand our customer, we don't yet know what a quality product is.^^ Avoiding superfluous 'quality' is not the same as being sloppy, eg. product shouldn't have chronically buggy code.
-    - Fearing competitors copying your early ideas is ridiculous, in fact it is almost impossible to get anyone to notice you. Your aim is to outpace competitors by building a learning engine that produces a practical solution faster than they can.
-    - Similarly, it is difficult to harm your brand reputation if you don't have one. Alternatively, an MVP can be built under an alternative brand name.
+	- ^^Learning is a priority. **Any work** on an MVP **which doesn't serve to test the most critical and risky of the business model assumptions is wasted.**^^
+	- Starting by trying to serve a couple or even a single customer can teach us a lot about the difficulties a real world implementation will encounter. This can be done on a largely manual system, with minimal development work.
+		- An early stage concierge style MVP is not the final product, as the aim on a startup is to build a scalable company, not a profitable small buisness.
+	- ^^While we may be tempted to focus on creating what we think 'quality' is, if we don't understand our customer, we don't yet know what a quality product is.^^ Avoiding superfluous 'quality' is not the same as being sloppy, eg. product shouldn't have chronically buggy code.
+	- Fearing competitors copying your early ideas is ridiculous, in fact it is almost impossible to get anyone to notice you. Your aim is to outpace competitors by building a learning engine that produces a practical solution faster than they can.
+	- Similarly, it is difficult to harm your brand reputation if you don't have one. Alternatively, an MVP can be built under an alternative brand name.
 - ### 7) Measure
-    - Innovation accounting
-        - 1) Establish a baseline with an MVP.
-        - 2) Iterate with regular testing to see if we can move customer metrics towards the ideal.
-        - 3) Decide whether to persevere or pivot.
-    - ^^Tracking overall metrics makes it impossible to identify the impact of recent changes to the value of a product.^^
-    - ^^Instead one should use **cohort analysis** to examine funnel or customer activation metrics. **This provides continuous regular feedback.**^^
-    - ^^Having **data which reveals how changes are impacting customer behaviour prevents a situation where we are dismissive of or overly responsive to qualitative feedback.**^^
-    - ^^A startup is aiming to gather "evidence that a sustainable business model can be built around its products or services."^^
-    - Agile - Extreme Programming
-        - Working in 'sprints' of 1-4 weeks, at the end of which the system is in a deployable state.
-        - ^^Describing work batches in terms of user stories, rather than technical specifications.^^
-        - Small batch size (1-2 days).
-        - Can change the order of batches to be implemented in the product backlog, making development highly adaptable to business requirements.
-    - ^^**Validated learning should form part of a company culture, with engineers and developers taking responsibility for ensuring their work is of value to the core objectives**, not only executives.^^
-    - Validation should form part of of the feature development workflows, eg. by scheduling each new feature to form part of a split test. The pace engineering works at should not exceeded the pace at which functionality can be validated.
-    - Metrics should be actionable - ie. facilitate clear understand of cause and effect
-    - ^^Metrics and reports should be accessible, ie. paint a clear picture of how many people are doing what, presented in plain language. They should also be easy to find, eg. automatically generated and emailed to employes daily.^^
-    - Metrics and reports should be auditable, ie. allow for spot checking of results with real customers. Systems for building reports should be simple and error free.
+	- Innovation accounting
+		- 1) Establish a baseline with an MVP.
+		- 2) Iterate with regular testing to see if we can move customer metrics towards the ideal.
+		- 3) Decide whether to persevere or pivot.
+	- ^^Tracking overall metrics makes it impossible to identify the impact of recent changes to the value of a product.^^
+	- ^^Instead one should use **cohort analysis** to examine funnel or customer activation metrics. **This provides continuous regular feedback.**^^
+	- ^^Having **data which reveals how changes are impacting customer behaviour prevents a situation where we are dismissive of or overly responsive to qualitative feedback.**^^
+	- ^^A startup is aiming to gather "evidence that a sustainable business model can be built around its products or services."^^
+	- Agile - Extreme Programming
+		- Working in 'sprints' of 1-4 weeks, at the end of which the system is in a deployable state.
+		- ^^Describing work batches in terms of user stories, rather than technical specifications.^^
+		- Small batch size (1-2 days).
+		- Can change the order of batches to be implemented in the product backlog, making development highly adaptable to business requirements.
+	- ^^**Validated learning should form part of a company culture, with engineers and developers taking responsibility for ensuring their work is of value to the core objectives**, not only executives.^^
+	- Validation should form part of of the feature development workflows, eg. by scheduling each new feature to form part of a split test. The pace engineering works at should not exceeded the pace at which functionality can be validated.
+	- Metrics should be actionable - ie. facilitate clear understand of cause and effect
+	- ^^Metrics and reports should be accessible, ie. paint a clear picture of how many people are doing what, presented in plain language. They should also be easy to find, eg. automatically generated and emailed to employes daily.^^
+	- Metrics and reports should be auditable, ie. allow for spot checking of results with real customers. Systems for building reports should be simple and error free.
 - ### 8) Pivot or persevere
-    - When startups identify that their growth engine is slowing or stalled, they need to pivot. This decision requires both data on the current product development and insights from the business development team's conversations with current and potential customers.
-    - ^^"Pivot or persevere" meetings should be scheduled, with an interval of about 4 - 20 weeks.^^
-    - Including external advisors can help get around the emotional weight of the decision and view the situation more objectively.
-    - Types of pivot:
-        - Zoom in / out
-        - Customer segment
-        - Customer need served by the product
-        - Platform $$\leftrightharpoons$$ App
-        - Business architecture: Complex systems $$\leftrightharpoons$$ Volume operations, ie. High margin & low volume $$\leftrightharpoons$$ Low margin and high volume.
-        - Value capture. Monetisation / Revenue streams in generally a core part of the value hypothesis.
-        - Channel - eg. Direct, Partner
-        - Engine of growth - Viral $$\leftrightharpoons$$ Sticky $$\leftrightharpoons$$ Paid
-        - Technology - Easiest for established companies, often least tied to the value and growth hypotheses.
+	- When startups identify that their growth engine is slowing or stalled, they need to pivot. This decision requires both data on the current product development and insights from the business development team's conversations with current and potential customers.
+	- ^^"Pivot or persevere" meetings should be scheduled, with an interval of about 4 - 20 weeks.^^
+	- Including external advisors can help get around the emotional weight of the decision and view the situation more objectively.
+	- Types of pivot:
+		- Zoom in / out
+		- Customer segment
+		- Customer need served by the product
+		- Platform $$\leftrightharpoons$$ App
+		- Business architecture: Complex systems $$\leftrightharpoons$$ Volume operations, ie. High margin & low volume $$\leftrightharpoons$$ Low margin and high volume.
+		- Value capture. Monetisation / Revenue streams in generally a core part of the value hypothesis.
+		- Channel - eg. Direct, Partner
+		- Engine of growth - Viral $$\leftrightharpoons$$ Sticky $$\leftrightharpoons$$ Paid
+		- Technology - Easiest for established companies, often least tied to the value and growth hypotheses.
 - ### 9) Batch
-    - ^^**Small batch sizes allow for **rapid iteration and** rapid detection and correction of errors. **^^
-    - ^^Small batch sizes reduce the amount and cost of in process inventory.^^
-    - Make it possible to produce a greater diversity of products.
-    - ^^When implementing small batches, **engineers and designers should work alongside in teams which complete one batch at a time.**^^
-    - In software, we can push multiple changes per day through 'continuous deployment', split testing them on a small segment of the customer base first. This requires extensive automated test coverage.
-        - <-> Agile & [Clean Code](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
+	- ^^**Small batch sizes allow for** rapid iteration and **rapid detection and correction of errors.**^^
+	- ^^Small batch sizes reduce the amount and cost of in process inventory.^^
+	- Make it possible to produce a greater diversity of products.
+	- ^^When implementing small batches, **engineers and designers should work alongside in teams which complete one batch at a time.**^^
+	- In software, we can push multiple changes per day through 'continuous deployment', split testing them on a small segment of the customer base first. This requires extensive automated test coverage.
+		- <-> Agile & [Clean Code](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
 - ### 10) Grow
-    - Sticky growth engine
-        - This model focuses on retaining customers who make repeated purchases
-        - There is a need to ensure that the new customer rate is higher than the churn rate, ie. customers are retained for a long time.
-        - Growth is often best pursued by improving the quality for existing customers, so that they are more likely to stay.
-    - Viral engine of growth
-        - Occurs when person to person transmission, which raises awareness of the product, is a necessary consequence of its usage.
-        - It is desired for the viral coefficient (mean referrals per customer) to exceed one.
-        - Businesses using this model generally don't charge customers directly, as this greatly increases the friction of acquiring a new user.
-    - Paid growth engine
-        - The margin per customer is lower than the acquisition cost per customer, allowing the business to acquire new customers through advertising / large scale sales support.
-        - Businesses using a paid growth engine need to continuously differentiate from their competitors, lest they enter into a bidding war where they pay all their profit to the customer acquisition source.
-            - <-> Race to the bottom.
-    - Businesses need to balance between tuning their current engine of growth and developing future sources of growth for once they saturate their current niche.
+	- Sticky growth engine
+		- This model focuses on retaining customers who make repeated purchases
+		- There is a need to ensure that the new customer rate is higher than the churn rate, ie. customers are retained for a long time.
+		- Growth is often best pursued by improving the quality for existing customers, so that they are more likely to stay.
+	- Viral engine of growth
+		- Occurs when person to person transmission, which raises awareness of the product, is a necessary consequence of its usage.
+		- It is desired for the viral coefficient (mean referrals per customer) to exceed one.
+		- Businesses using this model generally don't charge customers directly, as this greatly increases the friction of acquiring a new user.
+	- Paid growth engine
+		- The margin per customer is lower than the acquisition cost per customer, allowing the business to acquire new customers through advertising / large scale sales support.
+		- Businesses using a paid growth engine need to continuously differentiate from their competitors, lest they enter into a bidding war where they pay all their profit to the customer acquisition source.
+			- <-> Race to the bottom.
+	- Businesses need to balance between tuning their current engine of growth and developing future sources of growth for once they saturate their current niche.
 - ### 11) Adapt
-    - As startups grow, they need to implement new systems and processes to guarantee quality at scale,without creating a bureaucratic environment with excessive measures.
-    - ^^**As soon as a defect is identified, work should be stopped** so that it can be repaired **and ways to prevent it reoccuring can be developed.** This requires addressing the problem at multiple levels.^^
-    - Repeatedly breaking down the problem by asking why 5 times can help uncover the causal chain. We should be careful not to label the root cause prematurely or in such a way to cast blame on a particular individual or group.
-    - ^^The level of response should be a **proportional investment in preventing the problem at each level of the chain.**^^ This must be done in relation to the severity of the problem. A first instance occurrence may involve correcting the problem at a local level, while taking the first steps to improve an overarching system (eg. developing training materials), rather than initiating a large and time consuming program.
-    - 5 whys meetings should involve all stakeholders in the problem (those who discovered, attempted to fix, escalated or are responsible for a subsystem related to the problem). ^^**Otherwise, there is a tendency to assign blame to whoever was left out.**^^ Key decisions makers should be trained to lead these meetings.
-    - Management should be forgiving of mistakes the first time, if ^^the system in place allows an easy mistake to cause harm, the system should be improved.^^
-    - It is best to start using 5 whys by trying to solve small specific problems as they arise, rather than by putting your existing baggage through the process.
+	- As startups grow, they need to implement new systems and processes to guarantee quality at scale,without creating a bureaucratic environment with excessive measures.
+	- ^^**As soon as a defect is identified, work should be stopped** so that it can be repaired **and ways to prevent it reoccuring can be developed.** This requires addressing the problem at multiple levels.^^
+	- Repeatedly breaking down the problem by asking why 5 times can help uncover the causal chain. We should be careful not to label the root cause prematurely or in such a way to cast blame on a particular individual or group.
+	- ^^The level of response should be a **proportional investment in preventing the problem at each level of the chain.**^^ This must be done in relation to the severity of the problem. A first instance occurrence may involve correcting the problem at a local level, while taking the first steps to improve an overarching system (eg. developing training materials), rather than initiating a large and time consuming program.
+	- 5 whys meetings should involve all stakeholders in the problem (those who discovered, attempted to fix, escalated or are responsible for a subsystem related to the problem). ^^**Otherwise, there is a tendency to assign blame to whoever was left out.**^^ Key decisions makers should be trained to lead these meetings.
+	- Management should be forgiving of mistakes the first time, if ^^the system in place allows an easy mistake to cause harm, the system should be improved.^^
+	- It is best to start using 5 whys by trying to solve small specific problems as they arise, rather than by putting your existing baggage through the process.
 - ###  12) Innovate
-    - There are three structural incentives which help create a successful startup team:
-        - The startup's development resources whilst scarce, should be secured from tapering.
-        - The startup team should be decision making authority, with minimised need to seek approval externally.
-        - ^^Innovators should have a personal stake in the outcome, be it through long term financial rewards, clear and public assignment of credit to the innovators for their successes and recognition of the significance and specific nature of their role.^^
-    - In an internal startup, ^^**the company's existing business operations and brand need to be protected from the actions of the startup.** This means creating a sandbox where the startup can test new functionality on a smaller cohort of less critical users,^^ before gradually expanding the scope of the sandbox over time, as the team gains experience.
-    - Any innovator who succeeds will eventually have their work become the status quo. This often requires teaching others to bring them into the fold of a new way of working. ^^Workers may often resist mixed disciplinary teams and employing validated learning, as this will generally make them feel far less productive locally, even if it significantly improves global productivity.^^
+	- There are three structural incentives which help create a successful startup team:
+		- The startup's development resources whilst scarce, should be secured from tapering.
+		- The startup team should be decision making authority, with minimised need to seek approval externally.
+		- ^^Innovators should have a personal stake in the outcome, be it through long term financial rewards, clear and public assignment of credit to the innovators for their successes and recognition of the significance and specific nature of their role.^^
+	- In an internal startup, ^^**the company's existing business operations and brand need to be protected from the actions of the startup.** This means creating a sandbox where the startup can test new functionality on a smaller cohort of less critical users,^^ before gradually expanding the scope of the sandbox over time, as the team gains experience.
+	- Any innovator who succeeds will eventually have their work become the status quo. This often requires teaching others to bring them into the fold of a new way of working. ^^Workers may often resist mixed disciplinary teams and employing validated learning, as this will generally make them feel far less productive locally, even if it significantly improves global productivity.^^
